@@ -227,6 +227,8 @@ For Viruses without the Viral Envelope, the case is a little different. Their Vi
 
 The Capsids enclosing the Viral Genome (Nucleocapsids) exit through Budding (explained below) from those parts of the Cell Membrane where the Proteins are attached.
 
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-05.png)
+
 Cleavage (removal) and further maturation of the Proteins occurs outside the Host cell.
 
 ### STEP 6: Moving On From The Host (Virion Release / Egress)

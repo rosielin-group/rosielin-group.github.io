@@ -4,6 +4,8 @@ published: true
 
 ![Classification]({{site.baseurl}}/images/tusharBlog-01.png)
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+
 
 ## (A Personal) Prologue
 

@@ -10,8 +10,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Rosielin # add your name
 author-pic: rosielin-01.png
-about-author: The Rosielin Group consists of volunteers in the field of Medicine, Computer Science, Finance and Biology. We are a group of volunteers who want to share correct and optimistic results in Science.
-  The group name is a tribute to the English Chemist Rosalind Elsie Franklin. Her work is central to almost everything we know about Biology today. The name "Rosielin" comes from her full name.
+about-author: The Rosielin Group consists of volunteers in the field of Medicine, Computer Science, Finance and Biology. We as a group use our skills to distill and share correct and optimistic results in Science.
+  The group name is a tribute to the English Chemist Rosalind Elsie Franklin. 
+  Her work is central to almost everything we know about Biology today. The name "Rosielin" comes from her full name.
 
 # Contact links
 email: rosielingroup@gmail.com # Add your Email address

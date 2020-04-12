@@ -136,7 +136,7 @@ Oh and about that Mainstream virus image?
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 
 <p align="center">
-   <img src="/images/bacteriophage1.png" width="100%" />
+   <img src="({{site.baseurl}}/assets/img/virus.gif)" width="100%" />
 </p>
 
 ### We need just one more bite from the basics cake before we're ready to move to the interesting questions!

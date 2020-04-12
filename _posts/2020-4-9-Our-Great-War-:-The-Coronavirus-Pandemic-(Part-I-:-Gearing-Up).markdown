@@ -63,15 +63,15 @@ Viruses are tricky business. It might come as a surprise to you that, in spite o
 
 To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing (It is).
 
-### Viruses rely on a host for their growth and nourishment. They show what is called 'host specificity'. This means that all viruses do not affect all organisms. This is an important point that we will use later.
+> Viruses rely on a host for their growth and nourishment. They show what is called 'host specificity'. This means that all viruses do not affect all organisms. This is an important point that we will use later.
 
 ![Virus_Search]({{site.baseurl}}/images/virus_searching_problems.png)
 
 Once they breach into a host cell, that is when they show all the habits you would expect from living beings: 
 
-### A. They can create more copies of themselves ( this is really all there is to biology :) ) 
+> A. They can create more copies of themselves ( this is really all there is to biology :) ) 
 
-### B. Package their copies for redistribution ( send the children to work ), as well as derive energy from the host to keep replicating ( see the point ? ).
+> B. Package their copies for redistribution ( send the children to work ), as well as derive energy from the host to keep replicating ( see the point ? ).
 
 They use the host's resources to perform their everyday tasks, thereby weakening the host. If this goes on too much for too long and the body, the immune system in particular, starts to fight back in an attempt to remove the virus, the host falls sick (Happens to us all.).
 
@@ -91,11 +91,11 @@ Technically, this picture is that of an 'Animal Virus', the kind of virus that a
 
 As you can see, there's really only three parts:
 
-1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid) - **The Mastermind**
+> 1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid) - **The Mastermind**
 
-2. The Protein Coat - **The Muscle**
+> 2. The Protein Coat - **The Muscle**
 
-3. The Envelope - **The Street Smarts**
+> 3. The Envelope - **The Street Smarts**
 
 ### 1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus
 
@@ -113,11 +113,11 @@ What does that do?
 
 Well, it got hired by our beloved management at Virus Incorporated for three main reasons:
 
-### A. The coat protects the DNA / RNA of the virus. Similar to how the skull protects the brain.
+> A. The coat protects the DNA / RNA of the virus. Similar to how the skull protects the brain.
 
-### B. It has slots that allow the virus to latch on to a host. Think of an infected USB thumb drive that's inserted into a healthy computer through the USB port.
+> B. It has slots that allow the virus to latch on to a host. Think of an infected USB thumb drive that's inserted into a healthy computer through the USB port.
 
-### C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate the host's cell membrane. But that's boring.).
+> C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate the host's cell membrane. But that's boring.).
 
 ### 3. The Envelope
 
@@ -155,9 +155,9 @@ The one thing that remains to be talked about is:
 
 Answering this well has two benefits:
 
-### 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
+> 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
 
-### 2. We'll be able to do better at Plauge, Inc.
+> 2. We'll be able to do better at Plauge, Inc.
 
 An infection by a virus, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. 
 
@@ -255,7 +255,7 @@ However, the remaining Virions in the Host cell become targets of the Host's ant
 
 Budding is typical of viruses with Envelopes. This is because when the newly created Virus leaves the Host cell, it acquires the Envelope by modifying the Host's Plasma Membrane. An aside, the Plasma Membrane is not the same thing as the Cell Membrane.
 
-The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Plasma Membrane servers neither of these purposes. 
+> The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Plasma Membrane servers neither of these purposes. 
 
 These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
 

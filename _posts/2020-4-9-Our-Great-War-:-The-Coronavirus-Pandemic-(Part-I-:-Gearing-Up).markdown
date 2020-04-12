@@ -83,7 +83,7 @@ As an aside, when the virus is capable of, but not busy infecting a cell, roamin
 
 With that being said, take a look at this bad boy.
 
-![Virus Diagram]({{site.baseurl}}/images/virus-01.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virus-01.png)
 
 Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. A more mainstream picture will make an appearance further down. 
 

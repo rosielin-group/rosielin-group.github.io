@@ -1,9 +1,7 @@
 ---
 published: true
+img: cover_art.png
 ---
-
-![Classification]({{site.baseurl}}/images/cover_art.png)
-
 
 ## (A Personal) Prologue
 

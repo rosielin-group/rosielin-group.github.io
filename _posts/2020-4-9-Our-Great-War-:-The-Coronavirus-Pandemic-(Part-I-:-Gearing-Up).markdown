@@ -247,7 +247,7 @@ These bad boys go by the name of 'Cytolytic Viruses' in literature.
 
 Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions peacefully leave through the cell membrane, while the cell continues to create more Viruses. This method of Virion exit does not kill the Host cell. 
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_6.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-06.png)
 
 However, the remaining Virions in the Host cell become targets of the Host's antibodies (Antibodies are the rescue team your immune system sends to fight off pathogens).
 

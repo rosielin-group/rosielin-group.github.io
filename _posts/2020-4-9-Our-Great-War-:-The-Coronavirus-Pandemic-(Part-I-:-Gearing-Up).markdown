@@ -153,9 +153,9 @@ The one thing that remains to be talked about is:
 
 Answering this well has two benefits:
 
-> 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
+> We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
 
-> 2. We'll be able to do better at Plauge, Inc.
+> We'll be able to do better at Plauge, Inc.
 
 An infection by a virus, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. 
 

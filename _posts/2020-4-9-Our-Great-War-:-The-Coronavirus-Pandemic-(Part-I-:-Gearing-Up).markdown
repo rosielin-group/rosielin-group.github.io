@@ -2,7 +2,7 @@
 published: true
 ---
 
-![Classification]({{site.baseurl}}/images/tusharBlog-01.png)
+![Classification]({{site.baseurl}}/images/cover_art.png)
 
 
 ## (A Personal) Prologue

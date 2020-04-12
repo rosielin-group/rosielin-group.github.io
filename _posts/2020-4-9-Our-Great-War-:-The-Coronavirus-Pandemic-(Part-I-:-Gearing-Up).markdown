@@ -67,9 +67,9 @@ To make things clear, the larger consensus among the scientific community is to 
 
 Once they breach into a host cell, that is when they show all the habits you would expect from living beings: 
 
-> A. They can create more copies of themselves ( this is really all there is to biology :) ) 
+> They can create more copies of themselves ( this is really all there is to biology :) ) 
 
-> B. Package their copies for redistribution ( send the children to work ), as well as derive energy from the host to keep replicating ( see the point ? ).
+> Package their copies for redistribution ( send the children to work ), as well as derive energy from the host to keep replicating ( see the point ? ).
 
 They use the host's resources to perform their everyday tasks, thereby weakening the host. If this goes on too much for too long and the body, the immune system in particular, starts to fight back in an attempt to remove the virus, the host falls sick (Happens to us all.).
 

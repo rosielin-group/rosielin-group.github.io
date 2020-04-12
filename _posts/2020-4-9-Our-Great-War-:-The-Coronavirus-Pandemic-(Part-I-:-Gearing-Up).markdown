@@ -181,10 +181,6 @@ These 'ports' are present on what's called the cell membrane (the outer layer of
 
 The Glycoproteins on the Viral Envelope of the Virus interact with these receptors and this is the part that decides whether the Virus will affect this particular Host or not.
 
-![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-01.png)
-
-![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-03.png)
-
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
 
 ### STEP 2: The Virus Penetrates The Host (Viral Penetration)

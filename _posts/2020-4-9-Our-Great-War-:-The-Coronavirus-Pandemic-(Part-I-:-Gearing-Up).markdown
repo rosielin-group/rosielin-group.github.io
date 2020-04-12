@@ -63,7 +63,7 @@ To make things clear, the larger consensus among the scientific community is to 
 
 > Viruses rely on a host for their growth and nourishment. They show what is called 'host specificity'. This means that all viruses do not affect all organisms. This is an important point that we will use later.
 
-![Virus_Search]({{site.baseurl}}/images/virus_searching_problems.png)
+![Virus_Search]({{site.baseurl}}/assets/img/virus_searching_problems.png)
 
 Once they breach into a host cell, that is when they show all the habits you would expect from living beings: 
 

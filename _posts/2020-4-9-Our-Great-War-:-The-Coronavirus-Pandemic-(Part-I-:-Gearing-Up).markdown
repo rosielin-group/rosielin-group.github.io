@@ -167,7 +167,7 @@ These differ in some details based on the virus. But the fundamentals remain the
 
 To spare you the pain of scrolling back up, let's bring back an image we saw earlier. 
 
-![Virus Diagram]({{site.baseurl}}/images/virus-01.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-01.png)
 
 It all starts with finding that perfect match. See the Viral Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.
 
@@ -177,7 +177,7 @@ What does that mean ? Well, think of it like this: You can't just put a USB cabl
 
 Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_fitting_problems.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-02.png)
 
 These 'ports' are present on what's called the cell membrane (the outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, is also an okay visualization) of the host. 
 

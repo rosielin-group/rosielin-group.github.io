@@ -23,9 +23,9 @@ That's why this topic has been broken down into a series of posts. I've decided 
 
 In the first post, we want to set the stage with the Biology basics so that we're able to answer two major questions about this pandemic. They are: 
 
-### 1. What Is The Coronavirus ?
+> What Is The Coronavirus ?
 
-### 2. How Is It Spreading So Quickly ?
+> How Is It Spreading So Quickly ?
 
 Later, we'll ask the really interesting questions related to the Coronavirus and COVID-19. We'll also look at the more *human* aspect of things and talk about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
 

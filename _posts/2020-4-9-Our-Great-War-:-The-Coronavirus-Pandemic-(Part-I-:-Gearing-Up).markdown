@@ -191,8 +191,6 @@ In general, when the Virus and the Host are attached, the Host 'eats' the Virus.
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-02.png)
 
-![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
-
 In jargon, this process is called 'endocytosis'. However, like in the image, some Viruses have an Envelope. What about them ?
 
 Well for them, when the Virus and the host are attached, the Envelope of the Virus and the cell membrane of the Host fuse together. It is at this point that the virus gains access to the host. 

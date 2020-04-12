@@ -189,7 +189,7 @@ In very much the same way, the host has to have the correct kind of 'ports' on i
 
 In general, when the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ? Well, the cell membrane of the Host surrounds the Virus and engulfs it in. At this point, the Virus gets access to the Host.
 
-![Virus Diagram]({{site.baseurl}}/assets/img/virus-02.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-02.png)
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
 

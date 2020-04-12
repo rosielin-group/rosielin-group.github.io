@@ -215,7 +215,7 @@ DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins
 
 ### RNA Viruses
 
-![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-06.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
 
 ### STEP 5: Packaging The Newly Made Viruses (Assembly)
 

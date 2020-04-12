@@ -5,6 +5,7 @@ published: true
 ![Classification]({{site.baseurl}}/images/tusharBlog-01.png)
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-01.png)
 
 
 ## (A Personal) Prologue

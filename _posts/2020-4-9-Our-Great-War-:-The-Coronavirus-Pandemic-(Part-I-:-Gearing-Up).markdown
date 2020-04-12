@@ -44,7 +44,7 @@ With all that out of the way, let's get to business. So sit back, put your think
 ## An Introduction: Okay so 'Corona' refers to an aura, but what's the 'Virus' all about?
 
 {:refdef: style="text-align: center;"}
-![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
+![Gadhbadh Virus]({{site.baseurl}}/assets/img/virus.gif)
 {:refdef}
 
 **Everyone wants to party but nobody wants to do the dishes.**

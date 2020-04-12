@@ -261,4 +261,4 @@ These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
 
 Here's all the previous steps put together into a nice GIF:
 
-![Virus_Fitting]({{site.baseurl}}/images/attack.gif)
+![Virus Diagram]({{site.baseurl}}/assets/img/attack_motion.gif)

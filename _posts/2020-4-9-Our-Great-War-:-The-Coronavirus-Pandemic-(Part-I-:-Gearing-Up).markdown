@@ -136,7 +136,7 @@ Oh and about that Mainstream virus image?
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 
 {:refdef: style="text-align: center;"}
-![Gadhbadh Virus]({{site.baseurl}}/assets/img/virus.gif)
+![Gadhbadh Virus]({{site.baseurl}}/assets/img/bacteriophage1.png)
 {:refdef}
 
 ### We need just one more bite from the basics cake before we're ready to move to the interesting questions!

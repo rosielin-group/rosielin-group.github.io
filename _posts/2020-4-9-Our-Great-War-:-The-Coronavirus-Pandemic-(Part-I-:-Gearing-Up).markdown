@@ -165,6 +165,8 @@ These differ in some details based on the virus. But the fundamentals remain the
 
 To spare you the pain of scrolling back up, let's bring back an image we saw earlier. 
 
+![Virus Diagram]({{site.baseurl}}/assets/img/virus-01.png)
+
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-01.png)
 
 It all starts with finding that perfect match. See the Viral Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.

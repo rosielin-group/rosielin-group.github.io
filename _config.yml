@@ -1,16 +1,15 @@
 title: Rosielin Group
-email: your-email@domain.com
+email: rosielingroup@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are a group of volunteers who want to share correct and optimistic results in Science.
+  The group name is a tribute to the great Rosalind Elsie Franklin. Her work is central to almost everything we know about Biology today.
 permalink: ':title/'
 baseurl: "/rosielin-group.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Rosielin # add your name
-author-pic: adam-face.jpg
+author-pic: rosielin-01.png
 about-author: Write a description about Roselin Group
 
 # Contact links
@@ -18,8 +17,8 @@ email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: rosielin-group # Add your Github handle
+twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle

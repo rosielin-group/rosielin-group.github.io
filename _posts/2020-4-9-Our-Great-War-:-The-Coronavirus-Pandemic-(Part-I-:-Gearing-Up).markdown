@@ -183,7 +183,7 @@ These 'ports' are present on what's called the cell membrane (the outer layer of
 
 The Glycoproteins on the Viral Envelope of the Virus interact with these receptors and this is the part that decides whether the Virus will affect this particular Host or not.
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_1.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-03.png)
 
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
 
@@ -191,7 +191,7 @@ In very much the same way, the host has to have the correct kind of 'ports' on i
 
 In general, when the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ? Well, the cell membrane of the Host surrounds the Virus and engulfs it in. At this point, the Virus gets access to the Host.
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_2.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
 
 In jargon, this process is called 'endocytosis'. However, like in the image, some Viruses have an Envelope. What about them ?
 
@@ -201,7 +201,7 @@ Well for them, when the Virus and the host are attached, the Envelope of the Vir
 
 After the Envelope has come off and once the Virus is inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_3.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-05.png)
 
 When this happens, the Host really is in trouble.
 
@@ -217,7 +217,7 @@ DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins
 
 ### RNA Viruses
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_4.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-06.png)
 
 ### STEP 5: Packaging The Newly Made Viruses (Assembly)
 
@@ -231,8 +231,6 @@ The Capsids enclosing the Viral Genome (Nucleocapsids) exit through Budding (exp
 
 Cleavage (removal) and further maturation of the Proteins occurs outside the Host cell.
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_5.png)
-
 ### STEP 6: Moving On From The Host (Virion Release / Egress)
 
 This is essentially the stage where the newly created Viruses (for that point they are just sitting there, so we call them Virions) leave the current host. They leave in two ways:
@@ -241,7 +239,7 @@ This is essentially the stage where the newly created Viruses (for that point th
 
 Lysis refers to phenomenon of the rupture of the cell membrane of a cell. In this context, these cells are exactly the ones inside the Host. When you puncture a cell, the contents will eventually 'drain out' and disintegrate. The cell ruptures, thus, dying. 
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_7.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-07.png)
 
 These bad boys go by the name of 'Cytolytic Viruses' in literature.
 

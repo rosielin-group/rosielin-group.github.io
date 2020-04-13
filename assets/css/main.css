@@ -1,6 +1,6 @@
 #community-tab{
-  display:none;
-  user-select:none;
+  display:none !important;
+  user-select:none !important;
 }
 
 .highlight {

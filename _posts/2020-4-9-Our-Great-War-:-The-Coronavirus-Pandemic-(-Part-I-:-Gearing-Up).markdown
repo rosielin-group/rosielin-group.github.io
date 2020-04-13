@@ -95,7 +95,7 @@ As you can see, there's really only three parts:
 
 > The Envelope - **The Street Smarts**
 
-### 1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus
+### 1. The Viral Genome
 
 See that white thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
 

@@ -89,7 +89,7 @@ Technically, this picture is that of an 'Animal Virus', the kind of virus that a
 
 As you can see, there's really only three parts:
 
-> The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid) - **The Mastermind**
+> The Viral Genome - **The Mastermind**
 
 > The Protein Coat - **The Muscle**
 

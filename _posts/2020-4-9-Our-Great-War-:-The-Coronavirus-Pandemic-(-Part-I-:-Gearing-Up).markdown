@@ -119,7 +119,7 @@ Well, it got hired by our beloved management at Virus Incorporated for three mai
 
 > The coat protects the DNA / RNA of the Virus. Similar to how the skull protects the brain.
 
-> It has slots that allow the Virus to latch on to a host. Think of an infected USB thumb drive that's inserted into a healthy computer through the USB port.
+> It has slots that allow the Virus to latch on to a Host. Think of an infected USB thumb drive that's inserted into a healthy computer through the USB port.
 
 > The Protein Coat also contains chemicals (proteins) that let the Virion (remember the unemployed Virus?) sneak into the Host (in technical jargon: these proteins help the virion penetrate the Host's cell membrane. But that's boring.).
 

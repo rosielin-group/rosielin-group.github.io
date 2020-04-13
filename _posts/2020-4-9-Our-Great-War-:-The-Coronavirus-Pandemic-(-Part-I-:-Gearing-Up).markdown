@@ -218,7 +218,7 @@ After the Envelope has come off and once the Virus is inside, the Capsid (Protei
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-03.png)
 
-When this happens, the Host really is in trouble.
+When this happens, the Host is in real trouble.
 
 ### STEP 4: Putting It On Repeat (Viral Replication)
 

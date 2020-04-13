@@ -214,7 +214,7 @@ Well for them, when the Virus and the Host are attached, the Envelope of the Vir
 
 ### STEP 3: Shedding Skin (Uncoating)
 
-After the Envelope has come off and once the Virus is inside, the Capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
+After the Envelope has come off and once the Virus is inside, the Capsid (Protein Coat) is discarded and the Viral Genetic Material is released inside the host cell.
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-03.png)
 

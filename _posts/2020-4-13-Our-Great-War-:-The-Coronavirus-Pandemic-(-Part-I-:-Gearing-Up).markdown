@@ -6,9 +6,10 @@ tags:
 ---
 
 
-## Prologue
+## A Prologue
 
-This first post comes in pretty uncertain times and the reason is singular. We all face uncertainty, anxiety, fear and many other emotions. The one thing that makes it all better is understanding. Understanding an issue reduces anxiety, reduces stress, reduces fear about the issue and promotes us to keep our emotions aside and act logically. 
+This first post comes in pretty uncertain times and the reason is singular. We all face uncertainty, anxiety, fear and many other emotions. The one thing that makes it all better is understanding. 
+Understanding an issue reduces anxiety, reduces stress, reduces fear about the issue and promotes us to keep our emotions aside and act logically. 
 
 We as a group aim to help promote that. We hope you feel the same. Let's begin.
 

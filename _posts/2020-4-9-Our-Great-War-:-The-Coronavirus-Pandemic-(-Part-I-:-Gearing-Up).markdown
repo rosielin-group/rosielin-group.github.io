@@ -303,7 +303,8 @@ Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions p
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-06.png)
 
-However, the remaining Virions in the Host cell become targets of the Host's antibodies (Antibodies are the rescue team your immune system sends to fight off pathogens).
+However, the remaining Virions in the Host cell become targets of the Host's antibodies.
+>Antibodies are the rescue team your immune system sends to fight off pathogens).
 
 Budding is typical behaviour of viruses with Envelopes. This is because when the newly created Virus leaves the Host cell, it acquires the Envelope by modifying the Host's Plasma Membrane. 
 

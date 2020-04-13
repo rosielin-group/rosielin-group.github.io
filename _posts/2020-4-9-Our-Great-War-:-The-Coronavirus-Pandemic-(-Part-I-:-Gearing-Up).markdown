@@ -185,7 +185,9 @@ See the (Viral) Envelope? It holds Glycoproteins (those special Proteins) inside
 The Cell Membrane is much like the outer covering of an onion. 
 Thinking about the outer covering of your mobile phone, that houses all the ports, is also an okay visualization.
 
-Remember the "Host Specificity of a Virus" we talked about ? This comes into play right now. The Host must have the "correct" kind of Receptors for the Virus to be able to infect it and even in those Receptors, the Virus can infect only certain cells. 
+Remember the "Host Specificity of a Virus" we talked about ? This comes into play right now. 
+
+The Host must have the "correct" kind of Receptors for the Virus to be able to infect it and even in those Receptors, the Virus can infect only certain cells. 
 
 What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing). 
 

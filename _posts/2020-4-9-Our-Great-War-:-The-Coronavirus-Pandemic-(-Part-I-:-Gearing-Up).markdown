@@ -5,6 +5,7 @@ tags:
   - Blog
 ---
 
+
 ## Simple Is The New Sexy: Our Approach To Understanding
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
@@ -304,6 +305,7 @@ Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions p
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-06.png)
 
 However, the remaining Virions in the Host cell become targets of the Host's antibodies.
+
 >Antibodies are the rescue team your immune system sends to fight off pathogens).
 
 Budding is typical behaviour of viruses with Envelopes. This is because when the newly created Virus leaves the Host cell, it acquires the Envelope by modifying the Host's Plasma Membrane. 

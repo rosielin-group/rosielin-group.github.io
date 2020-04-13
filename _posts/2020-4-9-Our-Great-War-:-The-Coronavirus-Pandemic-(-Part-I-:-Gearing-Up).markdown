@@ -1,7 +1,8 @@
 ---
 published: true
 img: part_1_background.png
-tags: [Blog]
+tags:
+  - Blog
 ---
 
 ## Simple Is The New Sexy: Our Approach To Understanding

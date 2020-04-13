@@ -103,7 +103,9 @@ That material, which is either DNA or RNA (the distinction is **NOT** important 
 
 > The (In)famous Coronavirus has RNA as its Genetic Material. We'll get to that later.
 
-The name of the game here is to synthesize (create) proteins. Proteins are sources of energy that let the Virus live and do its job. More copies of the Virus mean more quantity of that protein. More protein leads to more Viruses, which means more infection.
+The name of the game here is to synthesize (create) proteins. Proteins are sources of energy that let the Virus live and do its job. More copies of the Virus mean more quantity of that protein. More protein leads to more Viruses, which means more infection. 
+
+> The process of Protein Synthesis requires for there to be Genetic Material at the beginning. Think of this as the harvested Jute that will end up as your bag later.
 
 ### 2. The Protein Coat
 

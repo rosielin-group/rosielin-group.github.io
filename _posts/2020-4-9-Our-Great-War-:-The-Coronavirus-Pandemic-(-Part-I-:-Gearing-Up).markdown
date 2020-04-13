@@ -330,4 +330,3 @@ This does it for the basics that we need. Why was this important ? We're doing i
 # FIN
 
 Thank you for giving your time and effort into reading this inaugural post. We'll try our best to churn out quality content that is correct and provides optimism in these uncertain times, though we might not be able to catch up with the speed of memers :) .
-

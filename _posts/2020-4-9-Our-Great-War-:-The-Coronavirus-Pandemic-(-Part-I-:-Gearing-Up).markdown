@@ -177,7 +177,9 @@ To spare you the pain of scrolling back up, let's bring back an image we saw ear
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virus-01.png)
 
-It all starts with finding that perfect fit. See the Viral Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.
+It all starts with finding that perfect fit. 
+
+See the (Viral) Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.
 
 Remember the 'host specificity' of a virus we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
 

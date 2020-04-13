@@ -267,8 +267,6 @@ These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
 
 ### Infection In Action
 
-Here's all the previous steps put together into a nice GIF:
+Here are all the previous steps put together into a nice GIF:
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/attack_motion.gif)
-
-

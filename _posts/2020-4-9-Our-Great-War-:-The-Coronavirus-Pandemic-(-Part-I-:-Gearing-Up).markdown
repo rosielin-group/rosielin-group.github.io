@@ -157,11 +157,11 @@ Let's repeat one thing that showed up before:
 
 The one thing that remains to be talked about is: 
 
-### The Devil Lives In The Details: How Do Viruses Infect Hosts?
+### How Do Viruses Infect Hosts?
 
 Answering this well has two benefits:
 
-> This helps us understand the scientific reasoning about the decisions that have been, are being and will be made on the current pandemic as well as on any future pandemic that may arise.
+> The Devil Lives In The Details: This helps us understand the scientific reasoning about the decisions that have been, are being and will be made on the current pandemic as well as on any future pandemic that may arise.
 
 > We'll be able to do better at Plauge, Inc.
 

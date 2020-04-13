@@ -109,7 +109,7 @@ The name of the game here is to synthesize (create) proteins. Proteins are sourc
 
 That necklace made up of beads is the protein coat. These beads are called 'Capsomeres' in technical jargon.
 
-Capsomeres are these capsule-like structures filled with protein, they come in different shapes and sizes.
+Capsomeres are these capsule-like structures filled with protein and they come in different shapes and sizes.
 
 What does that do? 
 

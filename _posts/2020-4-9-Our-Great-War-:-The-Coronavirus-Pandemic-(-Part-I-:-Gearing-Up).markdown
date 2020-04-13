@@ -137,7 +137,7 @@ Thus, showing signs of having some 'memory' of the immune system off of which it
 
 ### One for the 'Gram: Feel Free To Give This One No Likes
 
-Oh and about that Mainstream virus image? 
+Oh and about that Mainstream Virus image? 
 
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 

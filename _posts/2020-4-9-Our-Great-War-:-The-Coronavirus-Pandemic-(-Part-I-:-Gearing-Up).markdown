@@ -99,7 +99,9 @@ As you can see, there's really only three parts:
 
 See that white thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
 
-That material, which is either DNA or RNA (the distinction is **NOT** important to us right now), is the 'brain' of the virus and decides how the virus will function, that is, how it will create more copies of itself, use energy of the host, and infect the host. 
+That material, which is either DNA or RNA (the distinction is **NOT** important to us right now, but it will be), is the 'brain' of the virus and decides how the virus will function, that is, how it will create more copies of itself, use energy of the host, and infect the host. 
+
+> The (In)famous Coronavirus has RNA as its Genetic Material. We'll get to that later.
 
 The name of the game is to synthesize (create) proteins. Proteins are sources of energy that let the virus live and do it's job. More copies of the virus mean more quantity of that protein, more protein leads to more viruses, which means more infection.
 

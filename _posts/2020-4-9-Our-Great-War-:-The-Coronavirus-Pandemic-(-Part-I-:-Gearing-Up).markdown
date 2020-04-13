@@ -161,7 +161,7 @@ The one thing that remains to be talked about is:
 
 Answering this well has two benefits:
 
-> This helps us understand the scientific reasoning about the decisions that have been, are being and will be made on the current pandemic and on any future pandemic that may arise.
+> This helps us understand the scientific reasoning about the decisions that have been, are being and will be made on the current pandemic as well as on any future pandemic that may arise.
 
 > We'll be able to do better at Plauge, Inc.
 

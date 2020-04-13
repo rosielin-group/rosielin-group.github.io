@@ -202,7 +202,7 @@ When this happens, the Host really is in trouble.
 
 > Viral Replication is an extremely diverse topic that deserves its own post. Here however, we will only look at the superficials that are needed. Without concrete motivation, those specifics are boring and this is why we will dive into the specifics in the next post where we try to answer the really interesting questions on the Coronavirus.
 
-After the Uncoating is complete, it's time for the Virus to make all its efforts count! This is where the Virus starts to make more copies of itself. This is the part where the Host's clock is turned into a countdown. 
+After the Uncoating is complete, it's time for the Virus to make all its efforts count! This is where the Virus starts to make more copies of itself.
 
 At this point, the difference between whether the Genetic Material of the Virus has DNA or RNA becomes significant. We'll look at two cases, 'DNA Viruses' and 'RNA Viruses' based on whether the material is DNA or RNA.
 

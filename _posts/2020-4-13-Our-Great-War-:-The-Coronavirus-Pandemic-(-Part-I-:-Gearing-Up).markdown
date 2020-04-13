@@ -9,6 +9,7 @@ tags:
 ## A Prologue
 
 This first post comes in pretty uncertain times and the reason is singular. We all face uncertainty, anxiety, fear and many other emotions. The one thing that makes it all better is understanding. 
+
 Understanding an issue reduces anxiety, reduces stress, reduces fear about the issue and promotes us to keep our emotions aside and act logically. 
 
 We as a group aim to help promote that. We hope you feel the same. Let's begin.
@@ -107,7 +108,10 @@ As you can see, there's really only three parts:
 
 See that white thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
 
-That material, which is either DNA or RNA (the distinction is **NOT** important to us right now, but it will be), is the 'brain' of the virus and decides how the virus will function, that is, how it will create more copies of itself, use energy of the host, and infect the host. 
+That material, which is either DNA or RNA (the distinction is **NOT** important to us right now, but it will be later), is the 'brain' of the virus and decides how the virus will function, that is, how it will create more copies of itself, use energy of the host, and infect the host. 
+
+> DNA -> Deoxyribonucleic Acid
+  RNA -> Ribonucleic Acid
 
 > The (In)famous Coronavirus has RNA as its Genetic Material. We'll get to that later.
 

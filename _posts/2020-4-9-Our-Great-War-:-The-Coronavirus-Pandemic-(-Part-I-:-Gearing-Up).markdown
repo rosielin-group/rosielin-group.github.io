@@ -313,7 +313,7 @@ Budding is typical behaviour of viruses with Envelopes. This is because when the
 >An aside, the Plasma Membrane is not the same thing as the Cell Membrane.
 The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Plasma Membrane servers neither of these purposes. 
 
-These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
+These merciful pests are termed 'Cytopathic Viruses' in technical Jargon.
 
 ### Infection In Action
 
@@ -322,4 +322,3 @@ Here's all the previous steps put together into a nice GIF:
 ![Virus Diagram]({{site.baseurl}}/assets/img/attack_motion.gif)
 
 ## With this we have covered the basics!
-

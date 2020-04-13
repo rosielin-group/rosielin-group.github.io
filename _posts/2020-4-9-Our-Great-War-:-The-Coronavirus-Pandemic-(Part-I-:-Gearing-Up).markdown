@@ -206,7 +206,7 @@ At this point, the difference between whether the Genetic Material of the Virus 
 
 ### DNA Viruses
 
-DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins and enzymes of the host to create a molecule called mRNA (messenger RNA).
+DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins and enzymes of the host to create molecules called mRNA (messenger RNA) through a process called 'Transcription'. These mRNA molecules then undergo a process called 'Translation' in which they are converted into proteins.
 
 ### RNA Viruses
 
@@ -257,3 +257,5 @@ These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
 Here's all the previous steps put together into a nice GIF:
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/attack_motion.gif)
+
+

@@ -219,7 +219,9 @@ In Jargon, this process is called 'Endocytosis'. However, like in the image, som
 
 What about them ?
 
-Well for them, when the Virus and the Host are attached, the Envelope of the Virus and the Cell Membrane of the Host fuse together. It is at this point that the Virus gains access to the Host (#hacked). 
+Well for them, when the Virus and the Host are attached, the Envelope of the Virus and the Cell Membrane of the Host fuse together. 
+
+It is at this point that the Virus gains access to the Host (#hacked). 
 
 ### STEP 3: Shedding Skin (Uncoating)
 

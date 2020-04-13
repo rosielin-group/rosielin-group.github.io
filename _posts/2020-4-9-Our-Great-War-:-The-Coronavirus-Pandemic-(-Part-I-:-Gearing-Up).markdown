@@ -305,9 +305,10 @@ Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions p
 
 However, the remaining Virions in the Host cell become targets of the Host's antibodies (Antibodies are the rescue team your immune system sends to fight off pathogens).
 
-Budding is typical behaviour of viruses with Envelopes. This is because when the newly created Virus leaves the Host cell, it acquires the Envelope by modifying the Host's Plasma Membrane. An aside, the Plasma Membrane is not the same thing as the Cell Membrane.
+Budding is typical behaviour of viruses with Envelopes. This is because when the newly created Virus leaves the Host cell, it acquires the Envelope by modifying the Host's Plasma Membrane. 
 
-> The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Plasma Membrane servers neither of these purposes. 
+>An aside, the Plasma Membrane is not the same thing as the Cell Membrane.
+The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Plasma Membrane servers neither of these purposes. 
 
 These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
 

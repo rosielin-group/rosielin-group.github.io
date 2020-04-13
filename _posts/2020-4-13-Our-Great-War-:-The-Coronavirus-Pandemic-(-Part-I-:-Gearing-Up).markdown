@@ -249,6 +249,8 @@ When this happens, the Host is in real trouble.
 > Viral Replication is an extremely diverse topic that deserves its own post. Here however, we will only look at the superficials that are needed. 
 The detail to every step, combined with the diversity every different kind of Virus brings with it, is what makes this such a hard beast to tackle. However, we will not let that deter us!
 
+> If we choose to dive deep right now, we will be here all night.
+
 >Without concrete motivation towards achieveing a pre-defined goal, the specifics are boring and this is why we will dive into the details in the next post where we try to answer the really interesting questions on the Coronavirus.
 
 After the Uncoating is complete, it's time for the Virus to make all its efforts count! This is where the Virus starts to make more copies of itself.
@@ -264,8 +266,6 @@ DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins
 These mRNA molecules then undergo a process called 'Translation' in which they are converted into proteins.
 
 > As pointed out, the details of Transcription and Translation require a whole post of their own. We'll look at the parts of them that are needed when we go deeper into the Coronavirus. For now we have to make do with these details.
-
-> If we choose to dive deep right now, we will be here all night.
 
 ### RNA Viruses
 

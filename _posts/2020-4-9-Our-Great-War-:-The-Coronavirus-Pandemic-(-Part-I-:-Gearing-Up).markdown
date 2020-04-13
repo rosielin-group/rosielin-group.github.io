@@ -240,7 +240,7 @@ The detail to every step, combined with the diversity every different kind of Vi
 
 After the Uncoating is complete, it's time for the Virus to make all its efforts count! This is where the Virus starts to make more copies of itself.
 
-At this point, the difference between whether the Genetic Material of the Virus has DNA or RNA becomes significant. We'll look at two cases, 'DNA Viruses' and 'RNA Viruses' based on whether the material is DNA or RNA.
+At this point, the difference between whether the Genetic Material of the Virus has DNA or RNA becomes significant. We'll look (we have to) at two cases, 'DNA Viruses' and 'RNA Viruses' based on whether the material is DNA or RNA.
 
 ### DNA Viruses
 

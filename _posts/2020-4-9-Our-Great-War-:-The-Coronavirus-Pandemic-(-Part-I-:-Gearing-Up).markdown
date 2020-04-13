@@ -185,7 +185,7 @@ See the (Viral) Envelope? It holds Glycoproteins (those special Proteins) inside
 
 Remember the "Host Dpecificity of a Virus" we talked about ? This comes into play right now. The Host must have the "correct" kind of Receptors for the Virus to be able to infect it and even in those Receptors, the Virus can infect only certain cells. 
 
-What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing.). 
+What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing). 
 
 Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
 

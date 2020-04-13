@@ -181,7 +181,7 @@ It all starts with finding that perfect fit.
 
 See the (Viral) Envelope? It holds Glycoproteins (those special Proteins) inside that allow the Virus to attach to the Cell Membrane of the Host.
 
-> The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Cell Membrane is much like the outer covering of an Onion. Thinking about the outer covering of your mobile phone, that houses all the ports, is also an okay visualization
+> The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Cell Membrane is much like the outer covering of an Onion. Thinking about the outer covering of your mobile phone, that houses all the ports, is also an okay visualization.
 
 Remember the "Host Dpecificity of a Virus" we talked about ? This comes into play right now. The Host must have the "correct" kind of Receptors for the Virus to be able to infect it and even in those Receptors, the Virus can infect only certain cells. 
 

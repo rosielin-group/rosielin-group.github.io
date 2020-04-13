@@ -244,7 +244,9 @@ At this point, the difference between whether the Genetic Material of the Virus 
 
 ### DNA Viruses
 
-DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins and enzymes of the host to create special kinds of RNA molecules called mRNA (messenger RNA) through a process called 'Transcription'. These mRNA molecules then undergo a process called 'Translation' in which they are converted into proteins.
+DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins and enzymes of the host to create special kinds of RNA molecules called mRNA (messenger RNA) through a process called 'Transcription'. 
+
+These mRNA molecules then undergo a process called 'Translation' in which they are converted into proteins.
 
 > As pointed out, the details of Transcription and Translation merit a whole post of their own. We'll look at the parts of them that are needed when we go deeper into the Coronavirus. For now we have to make do with these details.
 

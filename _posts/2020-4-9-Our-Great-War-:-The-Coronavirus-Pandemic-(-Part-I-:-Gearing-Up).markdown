@@ -129,7 +129,7 @@ The thick yellow outline, the Envelope, contains materials (called Glycoproteins
 
 These materials give the Virus the ability to evade the immune system of the host. The immune system works on memory. It can fend off pathogens (disease causing microorganisms) it has seen before. 
 
-By having materials from the immune system of the host, the virus is able to dodge any punches the immune system of the host might throw. 
+By having materials from the immune system of the host, the Virus is able to dodge any punches the immune system of the host might throw. 
 
 Thus, showing signs of having some 'memory' of the immune system off of which it is working (this is much like playing a reverse card in UNO).  
 

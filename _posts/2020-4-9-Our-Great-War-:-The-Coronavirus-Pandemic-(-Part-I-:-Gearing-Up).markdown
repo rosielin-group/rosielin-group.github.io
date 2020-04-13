@@ -208,7 +208,7 @@ Well, the cell membrane of the Host surrounds the Virus and engulfs it in. At th
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-02.png)
 
-In jargon, this process is called 'Endocytosis'. However, like in the image, some Viruses have an Envelope. What about them ?
+In Jargon, this process is called 'Endocytosis'. However, like in the image, some Viruses have an Envelope. What about them ?
 
 Well for them, when the Virus and the Host are attached, the Envelope of the Virus and the Cell Membrane of the Host fuse together. It is at this point that the Virus gains access to the Host (#hacked). 
 

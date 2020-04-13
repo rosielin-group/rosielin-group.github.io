@@ -201,7 +201,7 @@ These 'ports' are present on the Cell Membrane of the Host.
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-01.png)
 
-In very much the same way, the host has to have the correct kind of 'ports' on its surface for the Virus to be able to 'fit in'. In jargon, this is called the 'Host Range' of the Virus.
+In very much the same way, the Host has to have the correct kind of 'ports' on its surface for the Virus to be able to 'fit in'. In Jargon, this is called the 'Host Range' of the Virus.
 
 ### STEP 2: Breaking The Ice (Viral Penetration)
 

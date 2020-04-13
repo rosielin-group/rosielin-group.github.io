@@ -111,7 +111,8 @@ See that white thread in the middle? You would not be very far from the truth if
 That material, which is either DNA or RNA (the distinction is **NOT** important to us right now, but it will be later), is the 'brain' of the virus and decides how the virus will function, that is, how it will create more copies of itself, use energy of the host, and infect the host. 
 
 > DNA -> Deoxyribonucleic Acid
-  RNA -> Ribonucleic Acid
+  
+> RNA -> Ribonucleic Acid
 
 > The (In)famous Coronavirus has RNA as its Genetic Material. We'll get to that later.
 

@@ -207,7 +207,9 @@ In Jargon, this is called the 'Host Range' of the Virus.
 
 ### STEP 2: Breaking The Ice (Viral Penetration)
 
-In general, when the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ?
+In general, when the Virus and the Host are attached, the Host 'eats' the Virus. 
+
+What does this mean ?
 
 Well, the Cell Membrane of the Host surrounds the Virus and engulfs it in. At this point, the Virus gets access to the Host.
 

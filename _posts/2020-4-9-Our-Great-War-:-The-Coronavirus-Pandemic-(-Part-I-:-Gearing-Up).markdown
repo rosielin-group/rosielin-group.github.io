@@ -61,7 +61,7 @@ Viruses are tricky business. It might come as a surprise to you that, in spite o
 
 To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing. It is.
 
-> Viruses rely on a host for their growth and nourishment. They show what is called 'host specificity'. This means that all viruses do not affect all organisms. This is an important point that we will use later.
+> Viruses rely on a host for their growth and nourishment. They show what is called 'host specificity'. This means that all viruses do not affect all organisms, a given virus can affect only certain kinds of hosts. This is an important point that we will use later.
 
 ![Virus_Search]({{site.baseurl}}/assets/img/virus_searching_problems.png)
 

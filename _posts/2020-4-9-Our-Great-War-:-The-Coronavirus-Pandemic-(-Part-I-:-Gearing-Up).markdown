@@ -275,11 +275,11 @@ At this point, the newly prepared Viral Genome along with Viral Proteins must be
 
 For most Viruses with the Viral Envelope, this assembly happens in either the Nucleus or the Cytoplasm (the Cytoplasm is a fluid includes all of the material inside the cell apart from the Nucleus) and their exit occurs through Lysis (explained below).
 
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-05.png)
+
 For Viruses without the Viral Envelope, the case is a little different. Their Virions are packaged as they leave the Host. The Viral Proteins in this case are inserted into the Host's Cell Membrane. 
 
 The Capsids enclosing the Viral Genome (Nucleocapsids) exit through Budding (explained below) from those parts of the Cell Membrane where the Proteins are attached.
-
-![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-05.png)
 
 Cleavage (removal) and further maturation of the Proteins occurs outside the Host cell.
 

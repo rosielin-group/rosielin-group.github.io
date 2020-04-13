@@ -1,6 +1,6 @@
 ---
 published: true
-img: cover_art.png
+img: part_1_background.png
 ---
 
 

@@ -167,7 +167,7 @@ Answering this well has two benefits:
 
 An infection by a virus, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host suffers, involves majorly six steps. 
 
-These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
+These differ in some details based on the Virus (they can be frustratingly diverse). But the fundamentals remain the same. Let's dive in!
 
 ### STEP 1: Finding The Perfect Match (Attachment)
 

@@ -157,11 +157,11 @@ Let's repeat one thing that showed up before:
 
 The one thing that remains to be talked about is: 
 
-### How Do Viruses Infect Hosts?
+### The Devil Lives In The Details: How Do Viruses Infect Hosts?
 
 Answering this well has two benefits:
 
-> We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
+> This helps us understand the scientific reasoning about the decisions that have been, are being and will be made on the current pandemic and on any future pandemic that may arise.
 
 > We'll be able to do better at Plauge, Inc.
 

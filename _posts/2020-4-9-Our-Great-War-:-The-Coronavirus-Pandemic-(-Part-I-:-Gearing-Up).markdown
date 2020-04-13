@@ -111,7 +111,7 @@ That necklace made up of beads is the protein coat. These beads are called 'Caps
 
 Capsomeres are these capsule-like structures filled with protein and they come in different shapes and sizes.
 
-What does that do? 
+What purpose does this Protein Coat serve ? 
 
 Well, it got hired by our beloved management at Virus Incorporated for three main reasons:
 

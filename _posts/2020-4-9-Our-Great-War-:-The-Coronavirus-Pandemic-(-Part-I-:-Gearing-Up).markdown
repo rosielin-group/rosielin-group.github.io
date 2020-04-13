@@ -321,4 +321,4 @@ Here's all the previous steps put together into a nice GIF:
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/attack_motion.gif)
 
-## With this we have covered the basics!
+## We're Ready.

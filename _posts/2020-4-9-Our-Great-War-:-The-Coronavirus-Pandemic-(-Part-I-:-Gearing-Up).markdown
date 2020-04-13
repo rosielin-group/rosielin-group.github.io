@@ -15,7 +15,7 @@ I've tried to maintain a balance by boiling things down to their simplest forms 
 
 These are uncertain times, and they require carefully worded and delicately handled explanations. There is an inherent trade-off between explaining the core of things and covering too much.
 
-That's why this topic has been broken down into a series of posts. I've decided to stop at three. This is the first.
+That's why this topic has been broken down into a series of posts. The plan is to stop at four. This is the first.
 
 In the first post, we want to set the stage with the Biology basics so that we're able to answer two major questions about this pandemic. They are: 
 

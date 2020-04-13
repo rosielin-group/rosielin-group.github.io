@@ -323,4 +323,8 @@ Here's all the previous steps put together into a nice GIF:
 
 ## We're Ready. But Why Did We Just Put In So Much Effort ?
 
-This does it for the basics that we need. Why was this important ? We're doing it this way because the point is not to merely know, but to understand. Now that we are familiar with the basics, we very strongly equipped to take on the  
+This does it for the basics that we need. Why was this important ? We're doing it this way because the point is not to merely know, but to understand. Now that we are familiar with the basics, we're very strongly equipped to take on the beast that is the Coronavirus.
+
+Thank you for giving your time and effort into reading this inaugural post. We'll try our best to churn out quality content that is correct and provides optimism in these uncertain times, though we might not be able to catch up with the speed of memers :) .
+
+

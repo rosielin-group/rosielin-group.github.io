@@ -200,7 +200,11 @@ When this happens, the Host really is in trouble.
 
 ### STEP 4: Making More Viruses (Viral Replication)
 
-> Viral Replication is an extremely diverse topic that deserves its own post. Here however, we will only look at the superficials that are needed. Without concrete motivation, those specifics are boring and this is why we will dive into the specifics in the next post where we try to answer the really interesting questions on the Coronavirus.
+> Viral Replication is an extremely diverse topic that deserves its own post. Here however, we will only look at the superficials that are needed. 
+The detail to every step, combined with the diversity every different kind of Virus brings with it, is what makes this such a hard beast to tackle. However, we will not let that deter us!
+
+>Without concrete motivation, those specifics are boring and this is why we will dive into the specifics in the next post where we try to answer the really interesting questions on the Coronavirus.
+
 
 After the Uncoating is complete, it's time for the Virus to make all its efforts count! This is where the Virus starts to make more copies of itself.
 

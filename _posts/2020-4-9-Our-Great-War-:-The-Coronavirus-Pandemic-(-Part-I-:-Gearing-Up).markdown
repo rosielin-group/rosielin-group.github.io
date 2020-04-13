@@ -210,7 +210,7 @@ Well, the cell membrane of the Host surrounds the Virus and engulfs it in. At th
 
 In jargon, this process is called 'Endocytosis'. However, like in the image, some Viruses have an Envelope. What about them ?
 
-Well for them, when the Virus and the Host are attached, the Envelope of the Virus and the cell membrane of the Host fuse together. It is at this point that the virus gains access to the host. 
+Well for them, when the Virus and the Host are attached, the Envelope of the Virus and the Cell Membrane of the Host fuse together. It is at this point that the virus gains access to the host. 
 
 ### STEP 3: Shedding Skin (Uncoating)
 

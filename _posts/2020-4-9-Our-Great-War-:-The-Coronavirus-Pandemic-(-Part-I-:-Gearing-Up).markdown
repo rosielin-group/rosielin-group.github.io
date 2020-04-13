@@ -312,7 +312,7 @@ The Cell Membrane covers the entire cell, protects the cell from invaders and is
 
 These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
 
-# With this we have covered the basics!
+## With this we have covered the basics!
 
 ### Infection In Action
 

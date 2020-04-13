@@ -170,7 +170,7 @@ What does that mean ? Well, think of it like this: You can't just put a USB cabl
 
 Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
 
-![Virus Diagram]({{site.baseurl}}/assets/img/virus_searching_problems.png)
+![Virus Diagram]({{site.baseurl}}/assets/img/virus_fitting_problems.png.png)
 
 These 'ports' are present on what's called the cell membrane (the outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, is also an okay visualization) of the host. 
 

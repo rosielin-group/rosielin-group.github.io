@@ -153,7 +153,7 @@ This is the last bit that remains for us to explore after which we're armed with
 
 Let's repeat one thing that showed up before:
 
-### There's going to be some technical terms coming up. A little more than the ones that showed up above. They are going to be relevant. Not just for these posts, but for your understanding. As above, no stress! Ee'll rip everything down to it's simplest core.
+### There's going to be some technical terms coming up. A little more than the ones that showed up above. They are going to be relevant. Not just for these posts, but for your understanding. As above, no stress! We'll rip everything down to it's core.
 
 The one thing that remains to be talked about is: 
 

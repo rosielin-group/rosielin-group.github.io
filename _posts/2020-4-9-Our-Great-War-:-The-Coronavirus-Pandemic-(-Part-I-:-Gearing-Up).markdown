@@ -139,7 +139,7 @@ Thus, showing signs of having some 'memory' of the immune system off of which it
 
 Oh and about that Mainstream Virus image? 
 
-Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
+Here it is, this is a type of Virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 
 {:refdef: style="text-align: center;"}
 ![Gadhbadh Virus]({{site.baseurl}}/assets/img/bacteriophage1.png)

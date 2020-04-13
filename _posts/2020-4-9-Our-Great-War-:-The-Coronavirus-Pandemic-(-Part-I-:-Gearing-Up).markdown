@@ -256,7 +256,9 @@ These mRNA molecules then undergo a process called 'Translation' in which they a
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
 
-RNA Viruses are more self-reliant and this is the category to which the Coronavirus belongs. As we saw above, replication starts with molecules of DNA but RNA Viruses, as the name suggests, have RNA as their genetic material. To solve this, RNA viruses carry along with them an enzyme called 'Reverse Transcriptase'.
+RNA Viruses are more self-reliant and this is the category to which the Coronavirus belongs. As we saw above, replication starts with molecules of DNA but RNA Viruses, as the name suggests, have RNA as their genetic material. 
+
+To solve this, RNA viruses carry along with them an enzyme called 'Reverse Transcriptase'.
 
 > An Enzyme is a biological catalyst. What does that mean? Well, a catalyst is a substance that speeds up a chemical reaction. A biological catalyst then, means a substance that speeds up chemical reactions in biological processes and environments.
 

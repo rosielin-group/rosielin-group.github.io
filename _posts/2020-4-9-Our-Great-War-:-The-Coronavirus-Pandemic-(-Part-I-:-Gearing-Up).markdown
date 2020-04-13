@@ -323,4 +323,4 @@ Here's all the previous steps put together into a nice GIF:
 
 ## We're Ready. But Why Did We Just Put In So Much Effort ?
 
-This does it for the basics that we need. Why was this important ? We do it this way because the point is not to merely know, but to understand. 
+This does it for the basics that we need. Why was this important ? We're doing it this way because the point is not to merely know, but to understand. Now that we are familiar with the basics, we very strongly equipped to take on the  

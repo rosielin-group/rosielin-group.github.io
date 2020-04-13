@@ -4,7 +4,6 @@ img: part_1_background.png
 tags: [Blog]
 ---
 
-
 ## Simple Is The New Sexy: Our Approach To Understanding
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
@@ -163,7 +162,7 @@ To spare you the pain of scrolling back up, let's bring back an image we saw ear
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virus-01.png)
 
-It all starts with finding that perfect match. See the Viral Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.
+It all starts with finding that perfect fit. See the Viral Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.
 
 Remember the 'host specificity' of a virus we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
 
@@ -181,7 +180,7 @@ The Glycoproteins on the Viral Envelope of the Virus interact with these recepto
 
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
 
-### STEP 2: The Virus Penetrates The Host (Viral Penetration)
+### STEP 2: Breaking The Ice (Viral Penetration)
 
 In general, when the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ? Well, the cell membrane of the Host surrounds the Virus and engulfs it in. At this point, the Virus gets access to the Host.
 
@@ -191,7 +190,7 @@ In jargon, this process is called 'endocytosis'. However, like in the image, som
 
 Well for them, when the Virus and the host are attached, the Envelope of the Virus and the cell membrane of the Host fuse together. It is at this point that the virus gains access to the host. 
 
-### STEP 3: The Protein Coat Comes Off (Uncoating)
+### STEP 3: Shedding Skin (Uncoating)
 
 After the Envelope has come off and once the Virus is inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
 
@@ -199,7 +198,7 @@ After the Envelope has come off and once the Virus is inside, the capsid (the pr
 
 When this happens, the Host really is in trouble.
 
-### STEP 4: Making More Viruses (Viral Replication)
+### STEP 4: Putting It On Repeat (Viral Replication)
 
 > Viral Replication is an extremely diverse topic that deserves its own post. Here however, we will only look at the superficials that are needed. 
 The detail to every step, combined with the diversity every different kind of Virus brings with it, is what makes this such a hard beast to tackle. However, we will not let that deter us!
@@ -216,7 +215,7 @@ DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins
 
 ### RNA Viruses
 
-RNA Viruses are more self-reliant and this the category to which the Coronavirus belongs. As we saw above, replication starts with molecules of DNA but RNA Viruses, as the name suggests, have RNA as their genetic material. To solve this, RNA viruses carry along with them an enzyme called 'Reverse Transcriptase'.
+RNA Viruses are more self-reliant and this is the category to which the Coronavirus belongs. As we saw above, replication starts with molecules of DNA but RNA Viruses, as the name suggests, have RNA as their genetic material. To solve this, RNA viruses carry along with them an enzyme called 'Reverse Transcriptase'.
 
 > An Enzyme is a biological catalyst. What does that mean? Well, a catalyst is a substance that speeds up a chemical reaction. So, a biological catalyst means a substance that speeds up chemical reactions in biological processes and environments.
 
@@ -226,7 +225,7 @@ Mission Complete.
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
 
-### STEP 5: Packaging The Newly Made Viruses (Assembly)
+### STEP 5: Bringing It All Together (Assembly)
 
 At this point, the newly prepared Viral Genome along with Viral Proteins must be assembled to create new Virions that must be prepared for leaving the nest. That is to say, to go on and infect other Hosts. 
 
@@ -240,7 +239,7 @@ The Capsids enclosing the Viral Genome (Nucleocapsids) exit through Budding (exp
 
 Cleavage (removal) and further maturation of the Proteins occurs outside the Host cell.
 
-### STEP 6: Moving On From The Host (Virion Release / Egress)
+### STEP 6: Moving On (Virion Release / Egress)
 
 This is essentially the stage where the newly created Viruses (for that point they are just sitting there, so we call them Virions) leave the current host. They leave in two ways:
 

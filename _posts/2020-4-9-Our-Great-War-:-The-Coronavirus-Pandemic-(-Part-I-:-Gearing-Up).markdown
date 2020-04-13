@@ -125,7 +125,7 @@ Well, it got hired by our beloved management at Virus Incorporated for three mai
 
 ### 3. The Envelope
 
-This outline, the envelope, contains materials (called Glycoproteins, they're a special kind of protein) from the virus as well as the host (if the virus has come in contact with a host).
+The thick yellow outline, the Envelope, contains materials (called Glycoproteins, they're a special kind of protein) from the virus as well as the host (if the virus has come in contact with a host).
 
 These materials give the virus the ability to evade the immune system of the host. The immune system works on memory. It can fend off pathogens (disease causing microorganisms) it has seen before. 
 

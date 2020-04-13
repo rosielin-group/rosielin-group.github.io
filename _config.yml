@@ -1,7 +1,7 @@
 title: Rosielin Group
 email: rosielingroup@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  We are a group of volunteers who want to share correct and optimistic results in Science.
+  The Rosielin Group consists of volunteers in the field of Medicine, Computer Science, Finance and Biology. We as a group want to share correct and optimistic results in Science. The group was started during the Coronavirus pandemic when we saw the overwhelming amount of uncertainty and pessimism. We wanted to bring ongoing research that's meant to give us all a ray of hope to the general public and bring about optimism while not being wrong.
   The group name is a tribute to the great Rosalind Elsie Franklin. Her work is central to almost everything we know about Biology today.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,9 +10,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Rosielin # add your name
 author-pic: rosielin-01.png
-about-author: The Rosielin Group consists of volunteers in the field of Medicine, Computer Science, Finance and Biology. We as a group use our skills to distill and share correct and optimistic results in Science.
-  The group name is a tribute to the English Chemist Rosalind Elsie Franklin. 
-  Her work is central to almost everything we know about Biology today. The name "Rosielin" comes from her full name.
+about-author: The Rosielin Group consists of volunteers in the field of Medicine, Computer Science, Finance and Biology. We as a group want to share correct and optimistic results in Science. The group was started during the Coronavirus pandemic when we saw the overwhelming amount of uncertainty and pessimism. We wanted to bring ongoing research that's meant to give us all a ray of hope to the general public and bring about optimism while not being wrong.
+  The group name is a tribute to the great Rosalind Elsie Franklin. Her work is central to almost everything we know about Biology today.
+
 
 # Contact links
 email: rosielingroup@gmail.com # Add your Email address

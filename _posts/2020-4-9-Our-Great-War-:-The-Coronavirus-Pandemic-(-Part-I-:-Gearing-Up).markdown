@@ -181,6 +181,8 @@ It all starts with finding that perfect fit.
 
 See the (Viral) Envelope? It holds Glycoproteins (those special Proteins) inside that allow the Virus to attach to the Cell Membrane of the Host.
 
+> The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding.
+
 Remember the 'host specificity' of a virus we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
 
 What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing.). 

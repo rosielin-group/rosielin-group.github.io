@@ -36,9 +36,7 @@ Later, we'll ask the really interesting questions related to the Coronavirus and
 
 ## The biggest advantage of true understanding is that we'll be able to get all the virology memes!
 
-<p><img src="{{site.baseurl}}/assets/img/tarantino.jpg"></p>
-
-![Gadhbadh Virus]({{site.baseurl}}/assets/img/tarantino.jpg)
+<p style="display:flex;justify-content:center"><img style="width="40%"" src="{{site.baseurl}}/assets/img/tarantino.jpg"></p>
 
 ### The tone of every post in this series, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat while talking about a very serious topic that is at the heart of these uncertain times. 
 

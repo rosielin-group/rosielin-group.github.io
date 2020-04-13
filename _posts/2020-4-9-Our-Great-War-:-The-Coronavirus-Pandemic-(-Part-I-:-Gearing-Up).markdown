@@ -198,7 +198,7 @@ The Glycoproteins on the Viral Envelope of the Virus interact with these Recepto
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-01.png)
 
-In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
+In very much the same way, the host has to have the correct kind of 'ports' on its surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
 
 ### STEP 2: Breaking The Ice (Viral Penetration)
 

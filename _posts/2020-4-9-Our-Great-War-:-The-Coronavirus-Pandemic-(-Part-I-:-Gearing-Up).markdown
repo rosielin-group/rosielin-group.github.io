@@ -59,7 +59,7 @@ Viruses are tricky business. It might come as a surprise to you that, in spite o
 
 >This is because viruses by themselves, that is to say, without a host, cannot replicate (make more copies of themselves), nor can they derive their own energy ( *make their own food* ). 
 
-To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing (It is).
+To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing. It is.
 
 > Viruses rely on a host for their growth and nourishment. They show what is called 'host specificity'. This means that all viruses do not affect all organisms. This is an important point that we will use later.
 

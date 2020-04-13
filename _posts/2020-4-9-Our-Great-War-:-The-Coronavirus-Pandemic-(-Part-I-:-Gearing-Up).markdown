@@ -193,7 +193,7 @@ Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.
 
 These 'ports' are present on the Cell Membrane of the Host.
 
-The Glycoproteins on the Viral Envelope of the Virus interact with these receptors and this is the part that decides whether the Virus will affect this particular Host or not.
+The Glycoproteins on the Viral Envelope of the Virus interact with these Receptors and this is the part that decides whether the Virus will affect this particular Host or not.
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-01.png)
 

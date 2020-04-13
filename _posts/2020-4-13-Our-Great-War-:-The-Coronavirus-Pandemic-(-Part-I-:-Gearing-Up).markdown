@@ -263,7 +263,7 @@ DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins
 
 These mRNA molecules then undergo a process called 'Translation' in which they are converted into proteins.
 
-> As pointed out, the details of Transcription and Translation merit a whole post of their own. We'll look at the parts of them that are needed when we go deeper into the Coronavirus. For now we have to make do with these details.
+> As pointed out, the details of Transcription and Translation require a whole post of their own. We'll look at the parts of them that are needed when we go deeper into the Coronavirus. For now we have to make do with these details.
 
 > If we choose to dive deep right now, we will be here all night.
 

@@ -248,6 +248,9 @@ DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins
 
 ### RNA Viruses
 
+
+![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
+
 RNA Viruses are more self-reliant and this is the category to which the Coronavirus belongs. As we saw above, replication starts with molecules of DNA but RNA Viruses, as the name suggests, have RNA as their genetic material. To solve this, RNA viruses carry along with them an enzyme called 'Reverse Transcriptase'.
 
 > An Enzyme is a biological catalyst. What does that mean? Well, a catalyst is a substance that speeds up a chemical reaction. So, a biological catalyst means a substance that speeds up chemical reactions in biological processes and environments.
@@ -256,7 +259,6 @@ Reverse Transcriptase is an enzyme that converts RNA to DNA. The Virus in this c
 
 Mission Complete.
 
-![Virus Diagram]({{site.baseurl}}/assets/img/virusAttack2-04.png)
 
 ### STEP 5: Bringing It All Together (Assembly)
 

@@ -191,7 +191,7 @@ Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.
 
 ![Virus Diagram]({{site.baseurl}}/assets/img/virus_fitting_problems.png)
 
-These 'ports' are present on what's called the cell membrane (the outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, is also an okay visualization) of the host. 
+These 'ports' are present on the Cell Membrane of the Host.
 
 The Glycoproteins on the Viral Envelope of the Virus interact with these receptors and this is the part that decides whether the Virus will affect this particular Host or not.
 

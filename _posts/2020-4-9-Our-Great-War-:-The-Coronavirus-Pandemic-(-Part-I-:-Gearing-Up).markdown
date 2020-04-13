@@ -121,7 +121,7 @@ Well, it got hired by our beloved management at Virus Incorporated for three mai
 
 > It has slots that allow the Virus to latch on to a Host. Think of an infected USB thumb drive that's inserted into a healthy computer through the USB port.
 
-> The Protein Coat also contains chemicals (proteins) that let the Virion (remember the unemployed Virus?) sneak into the Host (in technical jargon: these proteins help the virion penetrate the Host's cell membrane. But that's boring.).
+> The Protein Coat also contains chemicals (proteins) that let the Virion (remember the unemployed Virus?) sneak into the Host (in technical jargon: these proteins help the Virion penetrate the Host's cell membrane. But that's boring.).
 
 ### 3. The Envelope
 

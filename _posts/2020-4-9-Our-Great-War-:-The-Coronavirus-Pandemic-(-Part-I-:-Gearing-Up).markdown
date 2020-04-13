@@ -149,7 +149,7 @@ Here it is, this is a type of Virus that's called a *Bacteriophage*. They are vi
 
 ## Viral Infections: Hmm... I'm Still Listening, But How Has This Little Thing Managed To Lock Me Up?
 
-This is the last bit that remains for us to explore after which we're armed with all the tools needed to understand the all the "Whys" of the Coronavirus. Those are the only questions worth asking. Let's repeat one thing that showed up before:
+This is the last bit that remains for us to explore after which we're armed with the tools needed to understand the all the "Whys" of the Coronavirus. Those are the only questions worth asking. Let's repeat one thing that showed up before:
 
 ### There's going to be some technical terms coming up. A little more than the ones that showed up above. They are going to be relevant. Not just for these posts, but for your understanding. As above, we'll rip everything down to it's simplest core.
 

@@ -117,7 +117,7 @@ What purpose does this Protein Coat serve ?
 
 Well, it got hired by our beloved management at Virus Incorporated for three main reasons:
 
-> The coat protects the DNA / RNA of the virus. Similar to how the skull protects the brain.
+> The coat protects the DNA / RNA of the Virus. Similar to how the skull protects the brain.
 
 > It has slots that allow the virus to latch on to a host. Think of an infected USB thumb drive that's inserted into a healthy computer through the USB port.
 

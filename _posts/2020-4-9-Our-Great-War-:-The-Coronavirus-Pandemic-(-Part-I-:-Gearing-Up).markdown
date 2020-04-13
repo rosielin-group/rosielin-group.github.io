@@ -45,7 +45,7 @@ With all that out of the way, let's get to business. So sit back, put your think
 
 **Everyone wants to party but nobody wants to do the dishes.**
 
-Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea to get a relatively good grip of the basics. Before we get to the 'Corona' bit, we will talk a little about the 'Virus' bit. 
+Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea to get a relatively string grip of the basics. Before we get to the 'Corona' bit, we will talk a little about the 'Virus' bit. 
 
 ### If you are feeling that this is something you don't, won't or can't understand, you're not alone. I know the feeling. Give it five more minutes.
 

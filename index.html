@@ -2,7 +2,7 @@
 layout: home-page
 ---
 
-<div class="row">
+<div class="row" style="margin-top: 20px !important">
     <div class="col s12">
       <ul class="tabs">
         <li class="tab col s3"><a class="active" href="#science">Science</a></li>
@@ -11,10 +11,11 @@ layout: home-page
     </div>
   
     <div id="science" class="col s12">
+        
       <ol class="post-card-box clearfix">
         {% for post in paginator.posts %}
         {% for single in post.tags %}
-        {% if single contains "Blog" %}
+        {% if single contains "Science" %}
         <li>
           <div class="post-card">
             <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
@@ -32,11 +33,33 @@ layout: home-page
         {% endif %}
         {% endfor %}
         {% endfor %}
-</ol>
+    </ol>
+        
     </div>
   
     <div id="finance" class="col s12">
-      
+      <ol class="post-card-box clearfix">
+        {% for post in paginator.posts %}
+        {% for single in post.tags %}
+        {% if single contains "Finance" %}
+        <li>
+          <div class="post-card">
+            <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
+            </a>
+
+            <div class="post-card-body">
+              {% for tag in post.tags %}
+                <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
+              {% endfor %}
+              <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
+            </div>
+
+          </div>
+        </li>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+    </ol>
     </div>
   
 </div>

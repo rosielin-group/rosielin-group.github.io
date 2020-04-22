@@ -1,6 +1,7 @@
 ---
 published: true
-tags: Finance
+tags: 
+  - Finance
 ---
 ## A New Post
 

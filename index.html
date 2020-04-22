@@ -1,6 +1,28 @@
 ---
 layout: home-page
 ---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.carousel');
+    var instances = M.Tabs.init(elems);
+  });
+</script>
+            
+
+<ul id="tabs-swipe-demo" class="tabs">
+    <li class="tab col s3"><a href="#test-swipe-1">Test 1</a></li>
+    <li class="tab col s3"><a class="active" href="#test-swipe-2">Test 2</a></li>
+    <li class="tab col s3"><a href="#test-swipe-3">Test 3</a></li>
+</ul>
+
+<div id="test-swipe-1" class="col s12 blue">Test 1</div>
+<div id="test-swipe-2" class="col s12 red">Test 2</div>
+<div id="test-swipe-3" class="col s12 green">Test 3</div>
+
 <ol class="post-card-box clearfix">
   {% for post in paginator.posts %}
   <li>

@@ -2,44 +2,44 @@
 layout: home-page
 ---
 
-<div class="row" style="margin-top: 20px !important">
-    <div class="col s12">
-      <ul class="tabs" style="filter: saturate(0)">
-        <li class="tab col s3"><a class="active" href="#science">Science</a></li>
-        <li class="tab col s3"><a href="#finance">Finance</a></li>
-        <span class="bar"></span>
-      </ul>
-    </div>
-  
-    <div id="science" class="col s12">
-        
-      <ol class="post-card-box clearfix">
-        {% for post in paginator.posts %}
-        {% for single in post.tags %}
-        {% if single contains "Science" %}
-        <li>
-          <div class="post-card">
-            <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
-            </a>
+<div class="container">
+		<header>
+				<div id="material-tabs">
+						<a id="tab1-tab" href="#science" class="active">SCIENCE</a>
+						<a id="tab2-tab" href="#finance">FINANCE</a>
+						<span class="yellow-bar"></span>
+				</div>
+		</header>
 
-            <div class="post-card-body">
-              {% for tag in post.tags %}
-                <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
-              {% endfor %}
-              <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
-            </div>
+		<div class="tab-content">
+			
+				<div id="science">
+									<ol class="post-card-box clearfix">
+							{% for post in paginator.posts %}
+							{% for single in post.tags %}
+							{% if single contains "Science" %}
+							<li>
+								<div class="post-card">
+									<a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
+									</a>
 
-          </div>
-        </li>
-        {% endif %}
-        {% endfor %}
-        {% endfor %}
-    </ol>
-        
-    </div>
-  
-    <div id="finance" class="col s12">
-      <ol class="post-card-box clearfix">
+									<div class="post-card-body">
+										{% for tag in post.tags %}
+											<a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
+										{% endfor %}
+										<a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
+									</div>
+
+								</div>
+							</li>
+							{% endif %}
+							{% endfor %}
+							{% endfor %}
+					</ol>
+			</div>
+			
+				<div id="finance">
+						<ol class="post-card-box clearfix">
         {% for post in paginator.posts %}
         {% for single in post.tags %}
         {% if single contains "Finance" %}
@@ -61,26 +61,40 @@ layout: home-page
         {% endfor %}
         {% endfor %}
     </ol>
-    </div>
-  
+				</div>
+			
+		</div>
+	
 </div>
 
 <style>
     
-.row{
+.container{
 	height:100%;
 	width:100%;
 	padding:0;
 }
 
-.tabs {
+header {
+		position: relative;
+}
+
+.hide {
+		display: none;
+}
+
+.tab-content {
+		padding:25px;
+}
+
+#material-tabs {
 		position: relative;
 		display: block;
 	  padding:0;
 		border-bottom: 1px solid #e0e0e0;
 }
 
-.tabs>a {
+#material-tabs>a {
 		position: relative;
 	 display:inline-block;
 		text-decoration: none;
@@ -92,24 +106,24 @@ layout: home-page
 		text-align: center;
 		outline:;
 }
-    
-.tabs>a.active {
+
+#material-tabs>a.active {
 		font-weight: 700;
 		outline:none;
 }
 
-.tabs>a:not(.active):hover {
+#material-tabs>a:not(.active):hover {
 		background-color: inherit;
 		color: #7c848a;
 }
 
 @media only screen and (max-width: 520px) {
-		.tabs>li>a {
+		.nav-tabs#material-tabs>li>a {
 				font-size: 11px;
 		}
 }
 
-.bar {
+.yellow-bar {
 		position: absolute;
 		z-index: 10;
 		bottom: 0;
@@ -121,24 +135,56 @@ layout: home-page
 		-webkit-transition: left .2s ease;
 }
 
-.tab.active ~ span.bar {
+#tab1-tab.active ~ span.yellow-bar {
 		left: 0;
 		width: 160px;
 }
 
-.tab.active ~ span.bar {
+#tab2-tab.active ~ span.yellow-bar {
 		left:165px;
 		width: 82px;
 }
 
-.tab.active ~ span.bar {
+#tab3-tab.active ~ span.yellow-bar {
 		left: 253px;
 		width: 135px;
 }
 
-.tab.active ~ span.bar {
+#tab4-tab.active ~ span.yellow-bar {
 		left:392px;
 		width: 163px;
 }
 </style>
+
+<script>
+	$(document).ready(function() {
+		$('#material-tabs').each(function() {
+
+				var $active, $content, $links = $(this).find('a');
+
+				$active = $($links[0]);
+				$active.addClass('active');
+
+				$content = $($active[0].hash);
+
+				$links.not($active).each(function() {
+						$(this.hash).hide();
+				});
+
+				$(this).on('click', 'a', function(e) {
+
+						$active.removeClass('active');
+						$content.hide();
+
+						$active = $(this);
+						$content = $(this.hash);
+
+						$active.addClass('active');
+						$content.show();
+
+						e.preventDefault();
+				});
+		});
+	});
+</script>
         

@@ -13,8 +13,9 @@
   });
 </script>
 <script>
-$(document).ready(function(){
-    $('.carousel').carousel();
-});
+	  document.addEventListener('DOMContentLoaded', function() {
+	    var elems = document.querySelectorAll('.carousel');
+	    var instances = M.Tabs.init(elems);
+	  });
 </script>
 <script src="{{site.baseurl}}/assets/js/main.js"></script>

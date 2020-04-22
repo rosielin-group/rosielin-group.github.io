@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+tags: Finance
 ---
 ## A New Post
 
